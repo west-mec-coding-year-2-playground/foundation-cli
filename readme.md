@@ -34,25 +34,27 @@ A student led forked version of Zurb's command line installer for Foundation 6 c
   ## Innovator
   The highest possible award for C201-C202. You're team is the best of the best and will undoubtedly put so called "10x developers", "rock star developer", etc to shame. Every member has far exceeded any expectation of the instructor, of Wec Mec, the advisory counsel, etc. Recruiter's will absolutely fight over you.
 
-    1. Students have **completely** refactored the CLI to ES6+ in such a way it is completely independant of the original.
-   
-    2. The CLI should meet the following standards:
-      A). `foundation new client` CLI should be able to create a standalone  boilerplate for used for analyzing a potential client's website, creating a **styleguide** for the client, creating a **proposal** for the client and help provide **documentation** for a project.
+ 1. Students have **completely** refactored the CLI to ES6+ in such a way it is completely independant of the original and published on a seperate repo.
+
+ 2. The CLI should meet the following standards:
+   A). `foundation new client` CLI should be able to create a standalone  boilerplate for used for analyzing a potential client's website, creating a **styleguide** for the client, creating a **proposal** for the client and help provide **documentation** for a project.
 
       B). `Foundation new site` will provide users the following options:
-        1. Theme: Everything needed to build a "modern" static html, css, JS/ES/TS and deploy it to github pages and heroku in under an hour.
-        2. West-Mec Template: Everything needed in Extreame Programming.
-        3. Express: A lean fullstack app that uses docker, mongoDB, handlebars, etc and hosted on heroku.
-        4. React: A boilerplate that uses react-foundation.
-        5. MarkoJS: A boilerplate thats uses MarkoJS. Atleast 10 **functional** "blocks" have been converted to markoJS and atleast 20 have been converted to **design** components.
-        6. WordPress: Creates a WordPress boilerplate that works with docker in local development, able to be staged with Heroku for free and then integrates with cloud platforms in "production" (D.O. , AWS, AZURE, ETC).
+     1. Theme: Everything needed to build a "modern" static html, css, JS/ES/TS and deploy it to github pages and heroku in under an hour.
+     2. West-Mec Template: Everything needed in Extreame Programming.
+     3. Express: A lean fullstack app that uses docker, mongoDB, handlebars, etc and hosted on heroku.
+     4. React: A boilerplate that uses react-foundation.
+     5. MarkoJS: A boilerplate thats uses MarkoJS. Atleast 10 **functional** "blocks" have been converted to markoJS and atleast 20 have been converted to **design** components.
+     6. WordPress: Creates a WordPress boilerplate that works with docker in local development, able to be staged with Heroku for free and then integrates with cloud platforms in "production" (D.O. , AWS, AZURE, ETC).
 
       C). `Foundation new App` will create a boilerplate for a react-ionic mobile app.
 
       D). `Foundation new email` will provide users the following options:
-        1. West-Mec: An email boilerplate used to send west-mec branded email templates.
-        2. 
+     1. West-Mec: An email boilerplate used to send west-mec branded email templates.
+   
       E). `Foundation block and kits` has been completely rebuilt in a way that html, scss and js are abstracted into the desired framework, ex: converted to react/jsx, marko.js.
+
+
 
 # OLD Foundation CLI
 
